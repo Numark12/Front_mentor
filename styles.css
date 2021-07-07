@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: hsl(233, 47%, 7%);
+}
+.attribution { 
+    margin: auto;
+    margin-top: 150px;
+    font-size: 11px; 
+    text-align: center; 
+    background-color: hsl(244, 38%, 16%);
+    width: 900px;
+    height: 350px;
+    display: flex;  
+    border-radius: 10px;
+}
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.image {
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 350px;
+  
+}
+
+
+.attribution a { color: hsl(228, 45%, 44%); }
