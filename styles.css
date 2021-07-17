@@ -6,7 +6,7 @@ body{
     background: hsl(233, 47%, 7%);
 }
 
-@media (min-width: 650px) {
+@media (min-width: 600px) {
 .attribution { 
     margin: auto;
     margin-top: 150px;
